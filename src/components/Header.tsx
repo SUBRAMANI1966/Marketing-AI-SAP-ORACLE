@@ -24,8 +24,8 @@ export const Header: React.FC<HeaderProps> = ({ onScrollTo }) => {
 
   const navLinks = [
     { label: "Services", href: "services" },
-    { label: "What We Do", href: "what-we-do" },
     { label: "Why Nexora", href: "why-us" },
+    { label: "Architect Hub", href: "architect-hub" },
     { label: "Careers", href: "careers" },
     { label: "Contact", href: "contact" },
   ];

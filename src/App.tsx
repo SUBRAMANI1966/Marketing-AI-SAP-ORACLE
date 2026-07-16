@@ -2,6 +2,7 @@ import { Header } from "./components/Header";
 import { Hero } from "./components/Hero";
 import { Services } from "./components/Services";
 import { WhyUs } from "./components/WhyUs";
+import { ArchitectHub } from "./components/ArchitectHub";
 import { Careers } from "./components/Careers";
 import { Contact } from "./components/Contact";
 import { Footer } from "./components/Footer";
@@ -36,6 +37,9 @@ export default function App() {
 
         {/* Why Nexora & Philosophy & Core Values */}
         <WhyUs />
+
+        {/* Intelligent Architect Hub */}
+        <ArchitectHub />
 
         {/* Careers & Job Listings Accordions */}
         <Careers />

@@ -34,6 +34,12 @@ import {
   X,
   ArrowRight,
   Briefcase,
+  Rocket,
+  Download,
+  FolderPlus,
+  FileText,
+  Terminal,
+  Folder,
   LucideProps
 } from "lucide-react";
 
@@ -75,7 +81,13 @@ const iconMap: Record<string, React.ComponentType<LucideProps>> = {
   Menu,
   X,
   ArrowRight,
-  Briefcase
+  Briefcase,
+  Rocket,
+  Download,
+  FolderPlus,
+  FileText,
+  Terminal,
+  Folder
 };
 
 export const LucideIcon: React.FC<LucideIconProps> = ({ name, ...props }) => {
