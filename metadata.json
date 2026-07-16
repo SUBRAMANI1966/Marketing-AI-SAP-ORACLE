@@ -1,0 +1,6 @@
+{
+  "name": "Nexora Global",
+  "description": "Enterprise consulting and digital transformation company specializing in AI, SAP, Oracle, and Automation Solutions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
